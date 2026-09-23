@@ -6,9 +6,6 @@
 [](./LICENSE)
 []()
 
-> **发布前需替换的占位符**（共 3 处）：
-> `YOUR_GITHUB_NAME`（上面的徽章链接）、第 4.1 节的 raw 安装链接、第 10 节的仓库地址。
-> 若沿用当前中文文件名 `AI网页翻译助手-优化版.user.js`，raw 链接需要 URL 编码；建议发布前重命名为 `ai-web-translator.user.js`。
 
 ---
 
